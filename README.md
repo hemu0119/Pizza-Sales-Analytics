@@ -46,7 +46,7 @@ Pizza-Sales-Analytics
 ├── SQL queries
 │   └── Pizza Sales SQL Queries.docx
 │
-├── Images
+├── Dashboard Images
 │   └── Dashboard Screenshots
 │
 └── README.md
