@@ -1,5 +1,5 @@
 
-# 🍕 Pizza Sales Analytics Dashboard
+# 🍕 Pizza Sales Analytics 
 
 ## 📌 Project Overview
 
