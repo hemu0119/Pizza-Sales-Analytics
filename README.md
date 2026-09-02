@@ -1,1 +1,233 @@
-# Pizza-Sales-Analytics
+
+# 🍕 Pizza Sales Analytics Dashboard
+
+## 📌 Project Overview
+
+This project focuses on analyzing pizza sales data using **Power BI**, **SQL**, and **Excel** to uncover business insights, sales trends, customer purchasing behavior, and product performance.
+
+The dashboard provides an interactive view of key business metrics, helping stakeholders make data-driven decisions regarding sales performance, product strategy, and operational efficiency.
+
+---
+
+## 🎯 Business Objectives
+
+* Analyze overall sales performance
+* Identify top-performing and low-performing pizzas
+* Track monthly and daily order trends
+* Evaluate sales contribution by pizza category and size
+* Monitor revenue and order KPIs
+* Support business decision-making with interactive visualizations
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool        | Purpose                          |
+| ----------- | -------------------------------- |
+| Power BI    | Dashboard Development            |
+| SQL Server  | Data Analysis & KPI Calculations |
+| Excel       | Data Source                      |
+| DAX         | Measures & Calculations          |
+| Power Query | Data Transformation              |
+
+---
+
+## 📂 Project Structure
+
+```text
+Pizza-Sales-Analytics
+│
+├── Dataset
+│   └── pizza_sales.xlsx
+│
+├── Dashboard
+│   └── Pizza_Sales.pbix
+│
+├── SQL
+│   └── Pizza Sales SQL Queries.docx
+│
+├── Images
+│   └── Dashboard Screenshots
+│
+└── README.md
+```
+
+---
+
+# 📊 Dashboard KPIs
+
+The dashboard tracks the following key performance indicators:
+
+### Revenue Metrics
+
+* Total Revenue
+* Average Order Value
+
+### Sales Metrics
+
+* Total Pizzas Sold
+* Total Orders
+* Average Pizzas per Order
+
+### Trend Analysis
+
+* Daily Order Trends
+* Monthly Order Trends
+
+### Product Analysis
+
+* Sales by Pizza Category
+* Sales by Pizza Size
+* Top 5 Pizzas by Revenue
+* Bottom 5 Pizzas by Revenue
+* Top 5 Pizzas by Quantity Sold
+* Bottom 5 Pizzas by Quantity Sold
+* Top 5 Pizzas by Orders
+* Bottom 5 Pizzas by Orders
+
+These KPIs are calculated using SQL queries and visualized in Power BI dashboards. 
+
+---
+
+# 📈 Dashboard Features
+
+### Executive Summary
+
+Provides a high-level overview of:
+
+* Revenue Performance
+* Sales Volume
+* Customer Ordering Patterns
+* Business Growth Indicators
+
+### Sales Trend Analysis
+
+Analyzes:
+
+* Daily Sales Trends
+* Monthly Sales Performance
+* Seasonal Demand Patterns
+
+### Product Performance Analysis
+
+Evaluates:
+
+* Best-Selling Pizzas
+* Lowest-Selling Pizzas
+* Revenue Contribution by Product
+
+### Category Analysis
+
+Compares:
+
+* Classic Pizzas
+* Supreme Pizzas
+* Veggie Pizzas
+* Chicken Pizzas
+
+### Size Analysis
+
+Measures sales contribution across pizza sizes:
+
+* Small
+* Medium
+* Large
+* XL
+* XXL
+
+---
+
+# 🔍 Key Business Insights
+
+* Identified highest revenue-generating pizzas.
+* Discovered low-performing menu items requiring optimization.
+* Evaluated customer ordering preferences across categories.
+* Analyzed sales contribution by pizza size.
+* Revealed monthly and daily sales patterns.
+* Supported data-driven product and marketing decisions.
+
+---
+
+# 🗃️ SQL Analysis
+
+The project includes SQL queries for:
+
+* Revenue Analysis
+* Order Analysis
+* Trend Analysis
+* Category Performance
+* Size Performance
+* Top/Bottom Product Analysis
+
+The SQL scripts were used to validate business metrics before dashboard development. 
+
+---
+
+# 📸 Dashboard Preview
+
+Add your dashboard screenshots here.
+
+Example:
+
+```markdown
+![Dashboard Overview](Images/dashboard-overview.png)
+
+![Sales Analysis](Images/sales-analysis.png)
+
+![Category Analysis](Images/category-analysis.png)
+```
+
+---
+
+# 🚀 How to Use
+
+1. Download the repository.
+2. Open `Pizza_Sales.pbix` in Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore interactive filters and visualizations.
+5. Review SQL scripts for KPI calculations.
+
+---
+
+# 📚 Skills Demonstrated
+
+* Data Cleaning
+* Data Modeling
+* SQL Analytics
+* DAX Calculations
+* Data Visualization
+* Dashboard Design
+* Business Intelligence
+* KPI Development
+* Data Storytelling
+
+---
+
+# 👨‍💻 Author
+
+**Hemanth Mupparaju**
+
+📊 Data Analyst | Power BI Developer | SQL Analyst
+
+GitHub: `https://github.com/hemu0119`
+
+---
+
+### Repository Topics (Add these in GitHub)
+
+```text
+powerbi
+data-analytics
+business-intelligence
+sql
+excel
+dashboard
+data-visualization
+power-bi-dashboard
+sales-analysis
+pizza-sales
+dax
+power-query
+```
+
+Before publishing, upload 3–5 dashboard screenshots into an `Images` folder and place them in the README. Repositories with dashboard screenshots generally attract much more attention from recruiters than those containing only the `.pbix` file.
