@@ -160,23 +160,6 @@ The project includes SQL queries for:
 * Top/Bottom Product Analysis
 
 The SQL scripts were used to validate business metrics before dashboard development. 
-
----
-
-# 📸 Dashboard Preview
-
-Add your dashboard screenshots here.
-
-Example:
-
-```markdown
-![Dashboard Overview](Images/dashboard-overview.png)
-
-![Sales Analysis](Images/sales-analysis.png)
-
-![Category Analysis](Images/category-analysis.png)
-```
-
 ---
 
 # 🚀 How to Use
@@ -199,7 +182,6 @@ Example:
 * Dashboard Design
 * Business Intelligence
 * KPI Development
-* Data Storytelling
 
 ---
 
@@ -211,23 +193,3 @@ Example:
 
 GitHub: `https://github.com/hemu0119`
 
----
-
-### Repository Topics (Add these in GitHub)
-
-```text
-powerbi
-data-analytics
-business-intelligence
-sql
-excel
-dashboard
-data-visualization
-power-bi-dashboard
-sales-analysis
-pizza-sales
-dax
-power-query
-```
-
-Before publishing, upload 3–5 dashboard screenshots into an `Images` folder and place them in the README. Repositories with dashboard screenshots generally attract much more attention from recruiters than those containing only the `.pbix` file.
