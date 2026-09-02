@@ -43,7 +43,7 @@ Pizza-Sales-Analytics
 ├── Dashboard
 │   └── Pizza_Sales.pbix
 │
-├── SQL
+├── SQL queries
 │   └── Pizza Sales SQL Queries.docx
 │
 ├── Images
