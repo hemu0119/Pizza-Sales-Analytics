@@ -100,7 +100,12 @@ Provides a high-level overview of:
 * Customer Ordering Patterns
 * Business Growth Indicators
 
+<img width="1188" height="729" alt="image" src="https://github.com/user-attachments/assets/e0614258-6640-4a9c-9e77-b8d80a4e05d2" />
+<img width="1186" height="730" alt="image" src="https://github.com/user-attachments/assets/2f406def-765c-46e4-a681-02c578a93dd4" />
+
+
 ### Sales Trend Analysis
+
 
 Analyzes:
 
