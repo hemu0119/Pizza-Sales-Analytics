@@ -112,9 +112,11 @@ Analyzes:
 * Daily Sales Trends
 * Monthly Sales Performance
 * Seasonal Demand Patterns
+  
   ---
 <img width="1186" height="730" alt="image" src="https://github.com/user-attachments/assets/2f406def-765c-46e4-a681-02c578a93dd4" />
   ---
+  
 ### Product Performance Analysis
 
 Evaluates:
