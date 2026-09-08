@@ -198,7 +198,7 @@ The SQL scripts were used to validate business metrics before dashboard developm
 
 **Hemanth Mupparaju**
 
-📊 Data Analyst | Power BI Developer | SQL Analyst
+📊 Data Analyst | Power BI Developer
 
 GitHub: `https://github.com/hemu0119`
 
