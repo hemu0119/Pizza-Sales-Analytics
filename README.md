@@ -1,4 +1,4 @@
-
+ 
 # 🍕 Pizza Sales Analytics 
 
 ## 📌 Project Overview
@@ -11,7 +11,7 @@ The dashboard provides an interactive view of key business metrics, helping stak
 
 ## 🎯 Business Objectives
 
-* Analyze overall sales performance
+* Analyze overall sales performance 
 * Identify top-performing and low-performing pizzas
 * Track monthly and daily order trends
 * Evaluate sales contribution by pizza category and size
