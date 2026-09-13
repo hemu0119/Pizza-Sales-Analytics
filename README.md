@@ -102,13 +102,12 @@ Pizza-Sales-Analytics
 
 Provides an overview of overall sales performance using key revenue and order metrics.
 
-![Executive Dashboard](Dashboard%20Images/Image-1.jpeg)
-
+<img width="1188" height="729" alt="image" src="https://github.com/user-attachments/assets/e0614258-6640-4a9c-9e77-b8d80a4e05d2" />
 ### Sales Trend Analysis
 
 Analyzes daily and monthly sales trends to identify demand patterns and peak periods.
 
-![Sales Trend Dashboard](Dashboard%20Images/Image-2.jpeg)
+<img width="1186" height="730" alt="image" src="https://github.com/user-attachments/assets/2f406def-765c-46e4-a681-02c578a93dd4" />
 
 ### Product & Category Analysis
 
@@ -187,6 +186,6 @@ This project demonstrates an end-to-end analytics workflow:
 
 **Hemanth Mupparaju**
 
-**Data Analyst | Power BI Developer | SQL Analyst**
+**Data Analyst | Power BI Developer **
 
-🔗 [GitHub](https://github.com/hemu0119)
+ [GitHub](https://github.com/hemu0119)
